@@ -1,7 +1,7 @@
 # Web-Scraping-with-Beautiful-Soup
 Web scraping is the act of gathering data from html files on the web and processing the data in some way.
 One use of webscraping is to assist website migration from an old site to a new site. Sometimes in site migration, hudreds
-of webpages such as a library of blog posts need to be transfered, a time cosuming process. A common strategy is to copy
+of webpages such as an archive of blog posts need to be transfered, a time cosuming process. A common strategy is to copy
 and paste all relevant bodies of text by hand from the old website into the new webpages.
 Webscraping can assist this process by automatically gathering all the relevant content in one organized document.
 

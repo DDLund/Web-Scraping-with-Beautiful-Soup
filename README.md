@@ -8,7 +8,7 @@ Webscraping can assist this process by automatically gathering all the relevant 
 This code allows a user to create an excel doc with a list of websites, in this instance, a seris of webpages on a law firm's
 website, and scrape it using a python package called beautiful soup. It saves the scraped information in a docx file,
 maintining the formatting (heading 1,2,3, numbered and unnumbered lists, etc.) In a webpage's HTML, there are various 
-elements that are irrelevant to migrating the content,such as banner and foot elements. This webscraping code has a simple 
+elements that are irrelevant to migrating the content, such as banner and foot elements. This webscraping code has a simple 
 version that scrapes all content and transferes it to a docx file,and a more advanced algorithm that looks for relevant elements 
 that have the marks of "content", and only scraped those elements. The docx file becomes a sort of organized repository for the site
 content, allowing the content to be migrated to the new site with greater ease. When the content is copied, each website wil be

@@ -11,6 +11,5 @@ maintining the formatting (heading 1,2,3, numbered and unnumbered lists, etc.) I
 elements that are irrelevant to migrating the content, such as banner and foot elements. This webscraping code has a simple 
 version that scrapes all content and transferes it to a docx file,and a more advanced algorithm that looks for relevant elements 
 that have the marks of "content", and only scraped those elements. The docx file becomes a sort of organized repository for the site
-content, allowing the content to be migrated to the new site with greater ease. When the content is copied, each website wil be
-separated with a heading, and the copied content will keep the line types (heading 1,2,3,
-numbered or bullet lists, parahraph, etc.)
+content, allowing the content to be migrated to the new site with greater ease. When the content is copied, each webpage wil be
+separated with a heading.

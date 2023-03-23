@@ -5,7 +5,7 @@ of webpages such as an archive of blog posts need to be transfered, a time cosum
 and paste all relevant bodies of text by hand from the old website into the new webpages.
 Webscraping can assist this process by automatically gathering all the relevant content in one organized document.
 
-This code allows a user to create an excel doc with a list of websites, in this instance, a seris of webpages on a law firm's
+This code allows a user to create an excel doc with a list of websites, in this instance, a seris of webpages on a food blog's
 website, and scrape it using a python package called beautiful soup. It saves the scraped information in a docx file,
 maintining the formatting (heading 1,2,3, numbered and unnumbered lists, etc.) In a webpage's HTML, there are various 
 elements that are irrelevant to migrating the content, such as banner and foot elements. This webscraping code has a simple 

@@ -1,6 +1,6 @@
 # Web-Scraping-with-Beautiful-Soup
 
-This repository gives code to scrape a series of websites for web contnet and transfer select items to a word document.
+This repository gives code to scrape a series of websites for web content and transfer select items to a word document.
 
 ## Overview
 

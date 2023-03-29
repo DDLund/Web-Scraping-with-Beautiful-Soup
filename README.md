@@ -19,7 +19,7 @@ that have the marks of "content", and only scraped those elements. The docx file
 content, allowing the content to be migrated to the new site with greater ease. When the content is copied, each webpage wil be
 separated with a heading.
 
-## Content to be Scraped
+## Walkthrough
 
 ![](images/blog_example.png)
 

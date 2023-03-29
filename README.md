@@ -21,4 +21,11 @@ separated with a heading.
 
 ## Content to be Scraped
 
-![](images/yfit.png)
+![](images/blog_example.png)
+Above is a blog on potatoe tacos from a recipe website HouseofYumm.com. Suppose we want to copy all the content from this website into a organized word doc that will act as a repository.
+
+![](images/xlsx_doc.png)
+The first step is to make a excel document, and write each bage to be scraped in the first column entries.
+
+![](images/content_repo.png)
+Running the second block in the jupyter notebook (referencing the appropriate .xlsx document in the code), we scrape all the content from each website. Each website has a header, and the content keeps it's formatting.
